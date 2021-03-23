@@ -7,3 +7,4 @@ filetype plugin for neovim
 | extension | filetype |
 | :-------: | :------: |
 | tex | tex |
+| bib | tex |
